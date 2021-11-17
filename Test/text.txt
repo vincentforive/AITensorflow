@@ -1,0 +1,28 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6441-06F2
+
+ Directory of C:\Sem4\AI\Assignment\Tensorflow\Test
+
+17/11/2021  17:29    <DIR>          .
+17/11/2021  17:29    <DIR>          ..
+31/10/2021  14:28           105,385 End1.png
+31/10/2021  14:15            55,032 End2.png
+31/10/2021  14:26           169,924 NoEntry1.png
+31/10/2021  14:26           330,651 NoEntry2.png
+31/10/2021  14:20            82,368 NoLeft.png
+31/10/2021  14:35            35,490 NoLeft2.png
+31/10/2021  14:18            36,029 NoRight.png
+15/11/2021  20:56           100,164 NoRight6.png
+31/10/2021  14:14            99,750 NoStud.png
+15/11/2021  20:56            42,058 NoStud2.png
+31/10/2021  14:13            73,639 NoUturn1.png
+31/10/2021  14:14            50,871 NoUturn2.png
+31/10/2021  14:33           156,513 Stop.png
+31/10/2021  14:47            77,604 Stop1.png
+15/11/2021  13:59            39,438 Stop77.PNG
+15/11/2021  13:59            65,787 Stop771.PNG
+15/11/2021  14:28            50,348 StopAllDay10.png
+15/11/2021  14:29           108,820 StopAllDay11.png
+17/11/2021  17:29                 0 text.txt
+              19 File(s)      1,679,871 bytes
+               2 Dir(s)  262,936,526,848 bytes free
